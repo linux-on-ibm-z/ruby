@@ -524,7 +524,6 @@ script:
 branches:
   only:
     - master
-    - s390x-travis
     - ruby_2_4
     - ruby_2_5
     - ruby_2_6
