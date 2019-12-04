@@ -131,7 +131,6 @@ env:
   - &s390x-linux
     name: s390x-linux
     arch: s390x
-    dist: xenial
     <<: *gcc-8
     
   - &jemalloc
